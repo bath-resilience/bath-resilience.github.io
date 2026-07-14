@@ -1,0 +1,75 @@
+- date: 03 Feb 2026
+  speaker: Alexander Wray (University of Strathclyde)
+  url: https://www.strath.ac.uk/staff/wrayalexanderdr/
+  zoom: 1
+  title: "Electrostatic control of the Navier-Stokes equations"
+  abstract: "Multiphase flows are ubiquitous in nature and industry, and controlling them has applications everywhere from carbon sequestration to medical diagnostics. As a consequence, control has seen an ever-increasing focus in the field of fluid dynamics. Unfortunately, inverse problems of this type are typically extremely computationally costly, and most existing studies have focussed on single phase flows which admit convenient bases on which to project suitable reduced dimensional models. Multi-phase studies have typically confined their focus to lubrication-type equations, which have limited applicability. Here the more complex problem of free-surface flow down an inclined plane is examined, simulated using the volume-of-fluid open-source solver Basilisk. Control is implemented via a high-fidelity reduced order model using a projection method akin to the Method of Weighted Residuals, and using a Model Predictive Control loop to control the direct numerical simulation with judicious use of the model. Actuation is achieved via imposing a spatiotemporally-varying electric potential on an electrode parallel to the substrate. The model is investigated in detail, demonstrating a high degree of accuracy even into the short-wave regime. The control mechanism is shown to be applicable to both uniform and non-uniform target states, and the efficacy of the model predictive control loop is investigated across a wide variety of parameters. We also briefly examine the application of similar control techniques to other continuum systems."
+
+- date: 10 Feb 2026
+  speaker: Susana Gomes (University of Warwick)
+  url: https://warwick.ac.uk/fac/sci/maths/people/staff/gomes/
+  zoom: 1
+  title: "Modelling and control of opinion dynamics on evolving networks"
+  abstract: "The field of opinion dynamics has recently seen a large interest in the mathematics community, both from modelling and control perspectives. Most works focus on the Hegselmann-Krause model, a widely used bounded confidence model, and typical control strategies aim to steer a system towards consensus (or make it so more quickly) by using controls that act directly on agents.  In this talk, I will propose a novel type of control based on adaptive networks: I will introduce recent work on co-evolving networks (i.e. a dynamical system where the underlying network evolves at the same time as, and influenced by, the individuals' opinions) and how to control the network system in such a way that the opinion dynamics moves to consensus or other desired states. I will present various control strategies and analyse under which conditions opinions can or cannot be steered towards a given target, then corroborate and extend our analytical results with computational experiments and a study of optimal controls. I will highlight the advantages and disadvantages of each approach, as well as propose several directions for future research. If time permits, I will also discuss recent work on introducing ageing effects, which allows us to explore the mean-field limit and long time behaviour of these models, beyond just reaching consensus."
+
+- date: 24 Feb 2026
+  speaker: Marie-Therese Wolfram (University of Warwick)
+  url: https://warwick.ac.uk/fac/sci/maths/people/staff/wolfram/
+  zoom: 1
+  title: "Particles in Interaction: Dynamics, Sampling and Inverse Problems"
+  abstract: "Interacting particle systems provide a powerful and unifying framework for understanding collective phenomena across science and engineering. In this talk, I discuss three problems where particles, whether physical agents or abstract samples, interact through simple local rules that give rise to rich macroscopic behaviour. I will begin with ensemble-based sampling, in which a collection of interacting particles collaboratively explores the posterior distribution of interest. By coupling ensemble dynamics with Gaussian process surrogates, the method provides an efficient, derivative-free approach to Bayesian inference. I will then turn to pedestrian dynamics, where I consider two questions. First, how do boundary conditions and geometry influence macroscopic crowd behaviour and the emergence of collective flow patterns? Second, how can microscopic observations of individual motion be connected to the respective mean-field models? In particular, I will describe how microscopic data be used to learn the fundamental diagram governing crowd dynamics. Finally, I will briefly touch on inverse optimal transport, asking whether one can recover the underlying cost function from observed behaviour, and outline some of the exciting challenges this problem presents."
+
+- date: 3 Mar 2026
+  speaker: Alexandra Tzella (University of Birmingham)
+  url: https://www.birmingham.ac.uk/staff/profiles/maths/tzella-alexandra
+  zoom: 1
+  title: "Boundary conditions for active Brownian particles"
+  abstract: "We consider the transport of active particles inside a channel domain. These are treated using the Active Brownian Particle model (ABP), where particles move forward at constant speed but in a randomly-varying direction. We examine their accumulation near the boundary as the singular limit of a better-behaved model that includes small spatial diffusion. We present matched asymptotic approximations that describe their reduced dynamics at long times. In the reduced dynamics, the probability density for the particle position has a singular component localised on the boundary which is coupled in two-way fashion to to the smooth interior component. The results are illustrated by a number of numerical simulations."
+
+- date: 10 Mar 2026
+  speaker: Draga Pihler-Puzovic (University of Manchester)
+  url: https://personalpages.manchester.ac.uk/staff/draga.pihler-puzovic/
+  zoom: 1
+  title: "Exploring instabilities in slender structure: what does soft microfluidics have to do with \"soda forming\"?"
+  abstract: "The beauty of mechanics is that it work on multiple scales and often links disparate phenomena which appear to have little in common with each other. In this talks, we explore two types of buckling in thin cylinder-like structures, that of interest in fields as diverse as bacterial growth and rocket launching. First, we show the effect of inflation on the swelling-induced wrinkling of thin elastic membranes. Using a combination of experiments and modelling, we demonstrate that such inflation can be used as a control mechanism in the manufacture of patterned microchannels in lab-on-chip applications. Next, we study compression of a beverage can, mostly filled with a liquid. When uniaxially compressed empty cylinders buckle, they typically form periodic structures that break both axial and radial symmetry. By contrast, our liquid-filled cylinders buckle axisymmetrically. The resulting ring buckles are localised and appear sequentially, eventually filling the entire can surface. The final periodic pattern has a predictable wavelength that scales with the shell thickness and radius, following the same scaling observed in the microfluidics channels. However, the fine details of these pattern formation phenomena are driven by very different nonlinear dynamics."
+
+- date: 14 Apr 2026
+  speaker: James Sprittles (University of Warwick)
+  url: https://warwick.ac.uk/fac/sci/maths/people/staff/james_sprittles/
+  zoom: 1
+  title: "Droplet dynamics in the presence of gas nanofilms: merging, wetting, bouncing & levitation"
+  abstract: "Recent advances in experimental techniques have enabled remarkable discoveries and insight into how the dynamics of thin gas/vapour films can profoundly influence the behaviour of liquid droplets: drops impacting solids can “skate on a film of air” [1], so that they can “bounce off walls” [2,3]; reductions in ambient gas pressure can suppress splashing [4] and initiate the merging of colliding droplets [5]; and evaporating droplets can levitate on their own vapour film [7] (the Leidenfrost effect). Despite these advances, the precise physical mechanisms governing these phenomena remains a topic of debate.  A theoretical approach would shed light on these issues, but due to the strongly multiscale nature of these processes brute force computation is infeasible.  Furthermore, when films reach the scale of the mean free path in the gas (i.e. ~100nm) and below, new nanoscale physics appears that renders the classical Navier-Stokes paradigm inaccurate.
+
+
+In this talk, I will overview our development of efficient computational models for the aforementioned droplet dynamics in the presence of gas nanofilms into which gas-kinetic, van der Waals and/or evaporative effects can be easily incorporated [8,9].  It will be shown that these models can reproduce experimental observations – for example, the threshold between bouncing and wetting for drop impact on a solid is reproduced to within 5%, whilst a model excluding either gas-kinetic or van der Waals effects is ~170% off!  These models will then be exploited to make new experimentally-verifiable predictions, such as how we expect drops to behave in reduced pressure environments.  Finally, I will conclude with some exciting directions for future work.
+"
+
+- date: 28 Apr 2026
+  speaker: Igor Chernayavsky (University of Manchester)
+  url: https://research.manchester.ac.uk/en/persons/igor.chernyavsky/
+  zoom: 1
+  title: "Flow and transport in the human placenta and umbilical cord: a story with a twist"
+  abstract: "
+The human placenta is one of the most complex and unique organs. It is a crucial life-support system that not only nourishes growing fetuses but also determines their lifelong health. The placenta is an exchange organ with an intricate disordered micro-porous structure that packs a large surface area (~10 m^2) into a relatively thin disk, connected to the baby via a highly twisted umbilical cord. The talk will summarise recent progress in hyper-multiscale 3D imaging (spanning the range of µm to cm) [1] and associated image-based mathematical modelling of placental transport [2]. The models explore the physics of flow- and diffusion-limited solute exchange and demonstrate a certain universality of upscaled approximations for a wide class of transported solutes. Finally, we will discuss the surprising role of the helical configuration of the umbilical cord in modulating heat exchange in diverse placental mammals [3], and if time allows, touch on moving beyond continuum models of transport [4].
+
+
+[1] Tun WM, et al. (2021) J R Soc Interface 18:20210140 (doi.org/10.1098/rsif.2021.0140).
+
+
+[2] Erlich A, et al. (2019) Sci Adv 5:eaav6326 (doi.org/10.1126/sciadv.aav6326).
+
+
+[3] Wan T, et al. (2025) J R Soc Interface 22:20250148  (doi.org/10.1098/rsif.2025.0148).
+
+
+[4] Chen Q, et al. (2023) Soft Matter 19:5261 (doi.org/10.1039/D3SM00208J).
+"
+
+- date: 5 May 2026
+  speaker: Tiina Roose (University of Southampton)
+  url: https://www.tiinaroose.com/
+  zoom: 1
+  title: "Image based modeling in biology"
+  abstract: "We rely on soil to support the crops on which we depend. Less obviously we also rely on soil for a host of 'free services' from which we benefit. For example, soil buffers the hydrological system greatly reducing the risk of flooding after heavy rain; soil contains very large quantities of carbon, which would otherwise be released into the atmosphere where it would contribute to climate change. Given its importance it is not surprising that soil, especially its interaction with plant roots, has been a focus of many researchers. However the complex and opaque nature of soil has always made it a difficult medium to study. In this talk I will show how to build a predictive model of plant-soil interaction that is useful on multiple spatial and temporal scale enabling us to find in silico answers to many practical questions facing farmers, agronomists and ecosystem service providers. I will also briefly explain the application of these techniques to geotechnical and other engineering problems. 
+"
+

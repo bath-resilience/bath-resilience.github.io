@@ -1,0 +1,59 @@
+- date: 07 Oct 2025
+  speaker: Chris Howland (University College Dublin)
+  url: https://chowland.github.io/
+  zoom: 1
+  title: Convection and phase change in environmental flows
+  abstract: "Many processes in the climate system can be related to the coupling of fluid convection and thermodynamic phase changes, from ice-ocean interactions in polar regions to the formation and evolution of clouds in the atmosphere. In this talk, I will discuss some recent work aimed at understanding the fundamental interactions between convection and phase changes in simple systems. Firstly, motivated by the flows beside marine-terminating glaciers, I will describe the transition between buoyancy-driven and shear-driven boundary layers in turbulent mixed convection. Secondly, I will outline a newly-developed immersed boundary technique for simulating melting objects in turbulent flows, which reveals the subtle effects that the free motion of melting ice objects can introduce. Finally (time permitting), I will present some results from a system where phase changes drive the fluid motion - the simplified system of moist convection known as Rainy-Bénard."
+
+- date: 21 Oct 2025
+  speaker: Weida Liao (University of Cambridge)
+  url: https://www.maths.cam.ac.uk/person/wl354
+  zoom: 1
+  title: "Flows inside cells: From natural cytoplasmic streaming to microfluidic systems"
+  abstract: "Cytoplasmic streaming, the persistent flow of fluid inside a cell, induces intracellular transport, which plays a key role in fundamental biological processes. In this talk, we will discuss two types of cytoplasmic flows inside living cells. 
+ 
+First, we consider naturally occurring cytoplasmic flows during cell division. In meiosis II mouse oocytes (developing egg cells) awaiting fertilisation, the spindle, which is the protein structure responsible for dividing genetic material in a cell, must maintain its position near the cell cortex (the thin actin network bound to the cell membrane) for many hours. However, the cytoplasmic streaming that accompanies this stable positioning would intuitively appear to destabilise the spindle position. Through a combination of numerical and analytical modelling, we reveal a hydrodynamic mechanism for stable spindle positioning beneath the cortical cap.
+ 
+In the second half of the talk, we examine artificial cytoplasmic streaming. Recent experiments in cell biology have probed the impact of artificially induced intracellular flows in the spatiotemporal organisation of cells. In these experiments, mild heating via focused infrared light from a laser induces long-range, thermoviscous flow of the cytoplasm inside a living cell, a method popularised in cell biology as FLUCS (focused-light-induced cytoplasmic streaming). We present an analytical, theoretical model describing the fluid flow induced by the laser. Our quantitative findings show excellent agreement with recent experimental results and will enable the design of new controlled experiments to establish the physiological role of physical transport processes inside cells."
+
+- date: 28 Oct 2025
+  speaker: Onno Bokhove (University of Leeds)
+  url: https://eps.leeds.ac.uk/maths/staff/4009/professor-onno-bokhove
+  zoom: 1
+  title: A graphical cost-effectiveness tool for visualising and assessing flood-mitigation plans
+  abstract: "The following challenge was raised by an agency: can one apply mathematics to flood mitigation with tools that are comprehensible to decision-makers. To address the challenge a graphical cost-effectiveness tool was created. In that tool, square lakes visualise river-flood mitigation scenarios that aim to prevent the damage caused by a design flood with a specified target return period. Based on measured or calculated hydrograph data at a critical river location, each square lake of 2m-depth represents the flood-excess volume that needs to be mitigated to zero to eliminate damage, with each measure filling a fraction of the square-lake, and costs are overlaid. Various scenarios can thus be compared graphically. I will show that the tool has been used to design flood-mitigation scenarios when complicated engineering calculations are unavailable, as well as to visualise and assess these when they are available. The former has been done in Slovenia and the latter in France. I will discuss that the tool, with its intended simplicity and as a byproduct, has also been able to reveal inconsistencies or errors in public flood-mitigation plans."
+
+- date: 4 Nov 2025
+  speaker: Ellen Luckins (University of Warwick)
+  url: https://warwick.ac.uk/fac/sci/maths/people/staff/luckins/
+  zoom: 1
+  title: "Designing heat batteries: homogenised models for composite phase-change materials"
+  abstract: "Latent heat batteries are a developing green-energy technology where heat is stored and released through melting and freezing a phase-change material (PCM) with high latent heat. However, the low thermal conductivity of PCMs limits the charging and discharging rates of heat batteries. A common solution involves using composite materials, where part of the PCM is replaced with a high- conductivity copper mesh. Designing such devices efficiently requires accurate mathematical models, but existing models fail to capture the multiscale nature of these composites and thus cannot reliably predict phase-change dynamics. We use homogenisation analysis to derive two reduced models for heat conduction and phase change in composite PCMs, corresponding to two asymptotic limits: thin and thick copper wires. In the thin-wire limit, we obtain a sharp-front model with a phase-change interface at the macroscale. In the thick-wire limit, we derive a mush model, where phase change occurs simultaneously throughout the domain. The effective thermal conductivity can be computed for arbitrary microscale geometries, enabling mesh-microstructure optimisation. Our results show that phase change is fastest in the mush regime, making our model (structurally distinct to those in the literature) much more accurate for heat battery modelling and design."
+
+- date: 11 Nov 2025
+  speaker: Mark Blyth (University of East Anglia)
+  url: https://research-portal.uea.ac.uk/en/persons/mark-blyth
+  zoom: 1
+  title: "Kuzmak’s method – tour de force or tour de farce?"
+  abstract: "In 1959 Kuzmak introduced a new method for constructing asymptotic solutions to ordinary differential equations that describe nonlinear oscillators. The approach is effectively a nonlinear variant of the WKB method. Kuzmak's method was later refined by Luke (1966) and can be viewed as a precursor to Whitham Modulation Theory for nonlinear waves. The method appears to be not so well known. In this talk we will review Kuzmak's method by showing how it can be applied to the damped simple pendulum problem.  As is well known, with no damping the problem can be solved exactly using elliptic functions, and the oscillation period is seen to depend on the amplitude. With damping active, the basic asymptotic approach is one of multiple scales, with the fast time scale describing the oscillations and the slow time scale describing the gradual diminution in amplitude as energy is slowly lost. In a key step, the fast time scale is chosen so as to fix the oscillation period, and this allows a bounded solution to be constructed. We show how the key elements of the method work, providing sufficient details to fully construct the leading order solution."
+
+- date: 18 Nov 2025
+  speaker: Peter Stewart (University of Glasgow)
+  url: https://www.gla.ac.uk/schools/mathematicsstatistics/staff/peterstewart/
+  zoom: 1
+  title: "Meta-material failure: insights from fracture of gas-liquid foams"
+  abstract: "Meta-materials are engineered composites with unique properties not found in nature. Onset and propagation of failure in such materials is dictated strongly by their unique geometry. Gas-liquid foams are a unusually accessible example of a meta-material formed from several distinct structural elements which deform in different manners under an applied load. In this talk we characterise a brittle fracture mode of gas-liquid foam using a combination of experiments and computational and theoretical modelling. In particular, we propose a new continuum model for a fracturing foam derived directly from a discrete description of the underlying structural elements. We demonstrate how in one limit this model is analogous to the classical model of fracture in linearly elastic material, using this as a test system to validate an entirely new method for solving such linear fracture systems. However, we further show that in the experimental limit the contrasting motions of the structural elements can lead to interesting new features of propagating fracture, including a velocity gap and modification of the stress-singularity at the crack tip."
+
+- date: 25 Nov 2025
+  speaker: Sam Crew (National Tsing Hua University)
+  url: https://www.samuelcrew.com/
+  zoom: 1
+  title: Quantum path signatures
+  abstract: "In this talk I give a gentle introduction to quantum machine learning, in particular quantum kernels and feature maps. I will then discuss my recent work combining tools from random matrix theory and path signatures to define quantum feature maps and kernels for time series data."
+
+- date: 02 Dec 2025
+  speaker: Neil Lewis (University of Exeter)
+  url: https://experts.exeter.ac.uk/39065-neil-lewis
+  zoom: 1
+  title: "Rotating Spherical Shell Convection Driven by Internal Heating and Cooling"
+  abstract: "The bulk properties of convection in stellar and giant planet interiors are often assumed to be independent of the molecular diffusivities, which are very small. By contrast, simulations of this process in rotating, spherical shells, which are typically driven by conductive boundary heat fluxes, generally yield results that depend on the diffusivity. This makes it challenging to extrapolate these simulation results to real objects. In this talk, I will present results from new simulations of rotating, spherical shell convection that are driven using an alternative approach, namely by applying heating and cooling internally within the fluid. I will show that this set-up yields diffusivity-independent scaling for the convective heat transport as a function of rotation rate, and additionally diffusion-free behaviour for the convective and zonal flow velocities in cases where rotation is not dominant. The result that many aspects of our idealised simulations are diffusion-free has promising implications for the development of realistic stellar and giant planet convection models that can access diffusion-free regimes. I will conclude my talk with a discussion of some directions for future research, focusing on the potential utility of this technique for developing coupled models of interior convection and weather layer dynamics on gas giant planets. I will also introduce a new, separate project that aims to study the dynamics of polar vortices in Jupiter’s weather layer."
