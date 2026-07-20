@@ -1,3 +1,12 @@
+/* stretch hero image to fill the full width, height follows its own
+   aspect ratio (1600x1040) so nothing is ever cropped */
+.page__hero--overlay {
+  background-size: 100% auto;
+  background-color: #0b3d5c;
+  aspect-ratio: 1600 / 1040;
+  height: auto;
+}
+
 /* set-up for double columns */
 .column1 {
   float: left;

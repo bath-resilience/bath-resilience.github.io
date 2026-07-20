@@ -1,8 +1,9 @@
 ---
 given: Phil
 last: Trinh
-research: Fluid mechanics, Asymptotic analysis, Mathematical modelling
-homepage: http://ptrinh.com/
+research: Mathematician specialising in applied mathematics, with industrial and environmental applications. Particular interests in fluid mechanics, asymptotic analysis, mathematical modelling, and hydrology.
+homepage: https://ptrinh.com/
+email: hppt20@bath.ac.uk
 pic: trinh.jpg
 topics: fluids asymptotics modelling
 ---

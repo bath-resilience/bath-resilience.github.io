@@ -1,39 +1,24 @@
 ---
 layout: splash
-excerpt: "A themed semester from the Department of Mathematical Sciences<br><br>University of Bath<br>October 2026 &ndash; January 2027<br><br><br>"
+excerpt: "A themed semester delivered in collaboration by the Centre for Doctoral Training in Statistical Applied Mathematics (SAMBa) and the Institute for Mathematical Innovation (IMI)<br><br>University of Bath<br>October 2026 &ndash; January 2027<br><br><br>"
 header:
-  overlay_image: "/assets/pics/resilience-hero.svg"
+  overlay_image: "/assets/pics/resilience-pht.svg"
   overlay_filter: 0.1
-  actions:
-    - label: "Get Involved"
-      url: "mailto:{{ site.email }}"
+  # actions:
+  #   - label: "Get Involved"
+  #     url: "mailto:{{ site.email }}"
 title: "Environmental and Climate Resilience"
 ---
 
-## About the Themed Semester
+### A semester on Environmental & Climate Resilience at the University of Bath! 
 
-From October 2026, the Department of Mathematical Sciences is delivering a themed semester on **Environmental and Climate Resilience**. The theme reflects one of the most pressing challenges of our time &mdash; not only working to limit climate change, but building the resilience to live with the change that is already underway. It is a topic where the department has real expertise to offer, and an opportunity to help lead the conversation both on campus and beyond.
+This autumn, from September 2026 to January 2027, the [Centre for Doctoral Training in Statistical Applied Mathematics (SAMBa)](https://samba.ac.uk/) and the [Institute for Mathematical Innovation (IMI)](https://imibath.ac.uk/), are launching a themed semester focused on Environmental & Climate Resilience. The semester will bring together researchers from across the University to explore how communities, systems, and environments can adapt to the realities of climate change. We will feature a diverse programme of activities designed to spark new cross‑disciplinary collaborations, all with a mathematical or computational thread running through them. We warmly encourage colleagues from any department/school to get involved.
+ 
+### You can get involved by: 
 
-The semester comes at an important moment for building new collaborations, in Bath and further afield, that support research and doctoral funding as the department looks ahead to REF and future Centre for Doctoral Training bids. Funding to support activity is available through SAMBa, IMI, and the Faculties of Engineering and Science.
+* Check out our [upcoming events]({% link recent.md %}) this semester. A number of activities are already in development including IMI’s Power of 3 on 17 September. This workshop supports early‑stage, creative research ideas across faculties. 
+* If you have an idea for an activity to run as part of the themester (there is funding available), please submit it via the [applications]({% link applying.md %})
+* If you would like to discuss your visit or ideas, please feel free to contact one of the [organisers]({% link people.md %})
+ 
 
-We are interpreting the theme broadly. The aim is simply to generate research collaborations that are interesting and beneficial &mdash; to the individuals involved and to the department. Everything delivered as part of the semester will have a link to the mathematical sciences, but it does not need to be led from within the department.
-
-## Activities
-
-The programme is still taking shape, but is expected to include:
-
-- **A Power of 3 workshop** on 17 September 2026, bringing together participants across faculties to form new collaborations and secure funding to explore early-stage research ideas. [Find out more &raquo;](https://imibath.ac.uk/2026/06/02/power-of-3/)
-- **Seminar speakers** on the theme, some with funded longer stays to encourage discussion and collaboration within the department and beyond.
-- **Cross-faculty workshops and journal clubs** that bring in external participants and, where possible, external funding. A university-wide call for these activities will be announced shortly.
-- **A mini-course or high-profile activity** in a high-impact area related to the theme, not necessarily led by a mathematical scientist.
-- **A "Where's the Maths?" event**, expected during the week of 7 December 2026, showcasing the mathematics behind real-world problems.
-
-The semester will open with a session on **utopian thinking**. Climate and environmental resilience can be a difficult subject to sit with, so this opening session is designed to ground discussion in working towards a better future, rather than dwelling on the scale of the problem.
-
-## Get Involved
-
-A call for funding to support themed-semester activities will be announced soon &mdash; keep an eye out for details. If you are considering seminar speakers who fit the theme, or would value additional funding to support a longer visit, please get in touch.
-
-A fuller programme for the themed semester will be shared by the end of July 2026.
-
-Contact: <strong>{{ site.email }}</strong>
+ <!-- More information about Power of 3, including registration details, can be found here.  -->
