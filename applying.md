@@ -1,8 +1,6 @@
 ---
 layout: single
-sidebar: 
-  nav: "applying"
+# sidebar: 
+#   nav: "Propose an event"
 permalink: /applying/
 ---
-
-## Applying for funding

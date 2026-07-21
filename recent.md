@@ -2,12 +2,30 @@
 layout: single
 title: Events
 permalink: /events/index.html
-sidebar: 
-  nav: "events"
+# sidebar: 
+#   nav: "events"
 classes: wide
 ---
 
-Activities taking place as part of the Environmental and Climate Resilience themed semester.
+## Schedule of events
+
+| Date | Event | Organisers |
+|---|---|---|
+| 17 September 2026 | [Power of 3](https://imibath.ac.uk/2026/06/02/power-of-3/) | IMI |
+| Late September / early October 2026 | Film screening: *People's Emergency Briefing* | National Emergency Briefing |
+| 15 October 2026 | Utopian thinking workshop | &mdash; |
+| 21 October 2026 | AI & sustainability workshop | Marina de Vos and Julian Padget (Computer Science) |
+| 28 October 2026 | Climate Fresk for Maths PhDs | Christian Rohrbeck (Mathematical Sciences), [Climate Fresk](https://climatefresk.org/) |
+| Expected early November 2026 | Environmental vulnerability | Julie Barnett (Psychology) and Theresa Smith (Mathematical Sciences) |
+| Expected mid November 2026 | Resilience of UK electrical grid to extreme weather | Anna Young (Mechanical Engineering) and Alex Cox (Mathematical Sciences) |
+| Expected early December 2026 | Extreme rainfall, flooding, and slope instability evolution under climate change | Thomas Kjeldsen (Civil Engineering) and Phil Trinh / Christian Rohrbeck (Mathematical Sciences) |
+| Expected December 2026 | Mathematical Hydrology | Phil Trinh (Mathematical Sciences) |
+| Expected December 2026 | Where's the Maths | SAMBa |
+| Expected December 2026 | Fungal Tolerance | Ed Feil (Life Sciences) and Ruth Bowness (Mathematical Sciences) |
+
+Details on the events above and additional events will be released in late Summer 2026.
+
+<!-- Activities taking place as part of the Environmental and Climate Resilience themed semester.
 
 <ul id="two_col">
   <li>
@@ -39,4 +57,4 @@ Activities taking place as part of the Environmental and Climate Resilience them
   <div class="small"> {{post.excerpt}}
   </div></li>
 {% endfor %}
-</ul>
+</ul> -->
