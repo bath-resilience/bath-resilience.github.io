@@ -1,5 +1,6 @@
 ---
 layout: single
+title: What's the themed semester about? 
 # sidebar: 
 #   nav: "people"
 permalink: /about/
