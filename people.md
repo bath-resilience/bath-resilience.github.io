@@ -7,10 +7,10 @@ permalink: /people/
 classes: wide
 ---
 
-The themester is jointly organised by four organisers, with each individual event listed on the [upcoming events]({% link recent.md %}) page listing specific programme or workshop organisers.
+The themester is jointly organised by organisers supported by staff. Each individual event listed on the [upcoming events]({% link recent.md %}) page listing specific programme or workshop organisers.
 
 
-<ul id="two_col">
+<ul id="profiles">
   {% assign sorted = site.members | sort: 'last'  %}
   {% for member in sorted %}
     <li >
@@ -28,7 +28,7 @@ The themester is jointly organised by four organisers, with each individual even
         {% if member.email %}
         <a class="btn btn--inverse" href="mailto:{{ member.email }}"> Email </a>
         {% endif %}
-        <p class="small">{{ member.research }}</p>
+        <p class="small">{{ member.research | markdownify | remove: "<p>" | remove: "</p>" }}</p>
        </div>
       </div>
     </li>
