@@ -7,7 +7,9 @@ permalink: /events/index.html
 classes: wide
 ---
 
-## Schedule of events
+Details on below events and additional events will be released in late Summer 2026.
+
+## Schedule of workshops
 
 | Date | Event | Organisers |
 |---|---|---|
@@ -19,11 +21,15 @@ classes: wide
 | Expected early November 2026 | Environmental vulnerability | Leda Blackwood (Psychology), Julie Barnett (Psychology) and Theresa Smith (Mathematical Sciences) |
 | Expected mid November 2026 | Resilience of UK electrical grid to extreme weather | Anna Young (Mechanical Engineering) and Alex Cox (Mathematical Sciences) |
 | Expected early December 2026 | Extreme rainfall, flooding, and slope instability evolution under climate change | Thomas Kjeldsen (Civil Engineering) and Phil Trinh / Christian Rohrbeck (Mathematical Sciences) |
-| Expected December 2026 | Mathematical Hydrology | Phil Trinh (Mathematical Sciences) |
+| Expected December 2026 | Mathematical Hydrology | Phil Trinh (Mathematical Sciences) and Rob Lamb (JBA Trust) |
 | Expected December 2026 | Where's the Maths | SAMBa |
 | Expected December 2026 | Fungal Tolerance | Ed Feil (Life Sciences) and Ruth Bowness (Mathematical Sciences) |
 
-Details on the events above and additional events will be released in late Summer 2026.
+## Schedule of seminars and ongoing events
+
+| Date | Event | Organisers |
+|---|---|---|
+| Sept to Dec 2026 | SAMBa student reading group on Environmental Mathematics and Industry | Phil Trinh and Fiona Davies (Mathematical Sciences) |
 
 <!-- Activities taking place as part of the Environmental and Climate Resilience themed semester.
 
