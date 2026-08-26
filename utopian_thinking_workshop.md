@@ -19,7 +19,7 @@ In this workshop we’ll step out of this business as usual for half a day to:
 
 We will make sense, develop ideas, and gear up for action together – to turn the tension we experience into a source of energy and creativity.
 
-<a href="https://forms.cloud.microsoft/e/WH02YN1t2Y"> Click here to sign up for the event.</a> 
+<a href="https://forms.cloud.microsoft/e/WH02YN1t2Y"> Please click here to sign up for the event.</a> 
 
 ## Organisers and contact
 
