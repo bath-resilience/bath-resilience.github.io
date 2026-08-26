@@ -23,7 +23,7 @@ We will make sense, develop ideas, and gear up for action together – to turn t
 
 ## Organisers and contact
 
-For further enquiries, please contact the <a href="imi@bath.ac.uk">IMI</a>.
+For further enquiries, please contact the <a href="mailto:imi@bath.ac.uk">IMI</a>.
 
 ## External event page
 
