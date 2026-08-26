@@ -22,7 +22,7 @@ Details on below events and additional events will be released in late Summer 20
 | Expected early November 2026 | [Mapping Heatwaves: Community Knowledge, Inequality and Mathematical Models](/events/mapping-heatwaves.html) | Leda Blackwood (Psychology), Julie Barnett (Psychology) and Theresa Smith (Mathematical Sciences) |
 | Expected early December 2026 | [Quantitative Methods for Infrastructure Resilience: Bridging Mathematics and Civil Engineering](/events/extreme-rainfall-flooding.html) | Thomas Kjeldsen (Civil Engineering) and Phil Trinh / Christian Rohrbeck (Mathematical Sciences) |
 | Expected December 2026 | [Enhancing the Benefits of Mathematical Analysis in Flood Hydrology and Industry Modelling](/events/mathematical-hydrology.html) | Phil Trinh (Mathematical Sciences) and Rob Lamb (JBA Trust) |
-| Expected December 2026 | [Where's the Maths](/events/wheres-the-maths.html) | SAMBa |
+| 10 December 2026 | [Where's the Maths](/events/wheres-the-maths.html) | SAMBa |
 | Expected December 2026 | [Climate Change, Fungal Thermotolerance, and Emerging Infectious Disease: Where is the Maths?](/events/fungal-tolerance.html) | Ed Feil (Life Sciences) and Ruth Bowness (Mathematical Sciences) |
 
 ## Schedule of seminars and ongoing events
