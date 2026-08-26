@@ -24,7 +24,3 @@ We have space for 20 presenters and a further 40 attendees.
 SAMBa
 
 Contact: <a href="mailto:chpsrd@bath.ac.uk"> Susie Douglas </a>
-
-## External event page
-
-TBD
