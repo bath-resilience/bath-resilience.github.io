@@ -15,7 +15,9 @@ Each presenter has 1 slide and 3 minutes to describe to an audience of mathemati
 
 Ideally the connections made at this meeting will lead to future collaborative research projects or a project with one of our SAMBa PhD students. At the very least, it is a chance to meet some new people, find out some more about SAMBa, and seek out new opportunities!
 
-We have space for 20 presenters and a further 40 attendees. Please register your interest to participate as a speaker or audience member via this form.
+We have space for 20 presenters and a further 40 attendees. 
+
+<a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.cloud.microsoft%2FPages%2FResponsePage.aspx%3Fid%3DIj1-N6FOLUKwrY_MiUBrns648OV8E65Iu4iy7ZV6aHFUQUhTRko5OFFHVTJNSzZPNkhHUEhJWTU3TC4u&data=05%7C02%7Ccr777%40bath.ac.uk%7C99fb1326e5d04afdf4c708defeb247e7%7C377e3d224ea1422db0ad8fcc89406b9e%7C0%7C0%7C639228238810871605%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Je2gy%2BzDbdRyF07dnIXV2MvpPwKvVeteqns30eoSRXM%3D&reserved=0"> Please register your interest to participate as a speaker or audience member via this form. </a>
 
 ## Organisers and contact
 
