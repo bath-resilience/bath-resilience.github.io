@@ -21,8 +21,6 @@ We will make sense, develop ideas, and gear up for action together – to turn t
 
 ## Organisers and contact
 
-&mdash;
-
 <a href="https://forms.cloud.microsoft/e/WH02YN1t2Y"> Click here to sign up for the event.</a> 
 
 For further enquiries, please contact the <a href="imi@bath.ac.uk">IMI</a>.
