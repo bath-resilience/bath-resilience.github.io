@@ -27,4 +27,4 @@ For further enquiries, please contact the <a href="imi@bath.ac.uk">IMI</a>.
 
 ## External event page
 
-TBD
+[(https://imibath.ac.uk/2026/08/26/utopian-thinking/)](https://imibath.ac.uk/2026/08/26/utopian-thinking/ )
