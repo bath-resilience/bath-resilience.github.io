@@ -4,8 +4,8 @@ title: "Utopian Thinking Workshop"
 permalink: /events/utopian-thinking-workshop.html
 ---
 
-- **Date:** 15 October 2026
-- **Location:** TBD
+- **Date:** 9:30-13:00 on 15 October 2026 (followed by lunch)
+- **Location:** 4 West 1.7 (Wolfson Lecture Theatre)
 
 ## Summary
 
@@ -17,11 +17,15 @@ In this workshop we’ll step out of this business as usual for half a day to:
 * imagine practical utopias that ignore, contradict or dissolve these constraints, and
 * explore our contributions to these utopias as adjacent possibles – next steps on our individual paths through possibility space.
 
+We will make sense, develop ideas, and gear up for action together – to turn the tension we experience into a source of energy and creativity.
+
 ## Organisers and contact
 
 &mdash;
 
-Contact: <a href="mailto:hpsrd@bath.ac.uk"> Susie Douglas </a>
+<a href="https://forms.cloud.microsoft/e/WH02YN1t2Y"> Click here to sign up for the event.</a> 
+
+For further enquiries, please contact the <a href="imi@bath.ac.uk">IMI</a>.
 
 ## External event page
 
