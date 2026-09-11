@@ -14,7 +14,7 @@ Details on below events and additional events will be released in late Summer 20
 | Date | Event | Organisers |
 |---|---|---|
 | 17 September 2026 | [Power of 3](https://imibath.ac.uk/2026/06/02/power-of-3/) | IMI |
-| 15 October 2026 | [Utopian thinking workshop](/events/utopian-thinking-workshop.html) | &mdash; |
+| 15 October 2026 | [Utopian thinking workshop](/events/utopian-thinking-workshop.html) | IMI/SAMBa |
 | 21 October 2026 | [Understanding the Resilience of the Future UK Electricity Grid to Extreme Weather](/events/electrical-grid-resilience.html) | Anna Young (Mechanical Engineering) and Alex Cox (Mathematical Sciences) |
 | 21 October 2026 | <a href="https://cdt-art-ai.ac.uk/news/events/ai-sustainability-workshop"> AI Sustainability Workshop </a> | Marina de Vos and Julian Padget (Computer Science) |
 | 22 October 2026 | [Film screening: *People's Emergency Briefing*](/events/film-screening-emergency-briefing.html) | National Emergency Briefing |
