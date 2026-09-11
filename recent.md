@@ -32,7 +32,10 @@ Details on below events and additional events will be released in late Summer 20
 |---|---|---|
 | Sept to Dec 2026 | [Mathematics for Environmental Research: Seminar and Reading Group](/events/samba-reading-group.html) | Phil Trinh and Fiona Davies (Mathematical Sciences) |
 | 23 October 2026 | [Statistics and Numerical Analysis Seminar](https://cr777-bath.github.io/my-website/seminar.html) | Eviatar Bach (University of Reading) |
+| 27 October 2026 | Applied and Interdisciplinary Mathematics Seminar | Ross Wood (University of Bristol) |
+| 3 November 2026 | Applied and Interdisciplinary Mathematics Seminar | Elizabeth Lewis (University of Manchester) |
 | 6 November 2026 | [Statistics Seminar](https://cr777-bath.github.io/my-website/seminar.html) | Franziska Glassmeier (TU Delft) |
+| 10 November 2026 | Applied and Interdisciplinary Mathematics Seminar | Simon Mathias (Durham University) |
 | 20 November 2026 | [Statistics Seminar](https://cr777-bath.github.io/my-website/seminar.html) | Roxana Ciurean (British Geological Survey) |
 
 <!-- Activities taking place as part of the Environmental and Climate Resilience themed semester.
