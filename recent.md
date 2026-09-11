@@ -24,7 +24,6 @@ Details on below events and additional events will be released in late Summer 20
 | Expected December 2026 | [Enhancing the Benefits of Mathematical Analysis in Flood Hydrology and Industry Modelling](/events/mathematical-hydrology.html) | Phil Trinh (Mathematical Sciences) and Rob Lamb (JBA Trust) |
 | 10 December 2026 | [Where's the Maths](/events/wheres-the-maths.html) | SAMBa |
 | Expected December 2026 | [Climate Change, Fungal Thermotolerance, and Emerging Infectious Disease: Where is the Maths?](/events/fungal-tolerance.html) | Ed Feil (Life Sciences) and Ruth Bowness (Mathematical Sciences) |
-| 1 February 2027 | Distinguished seminar: <br>*Mathematics of tipping points* by [Mary Lou Zeeman](https://www.bowdoin.edu/profiles/faculty/mlzeeman/) | IMI |
 
 ## Schedule of seminars and ongoing events
 
@@ -37,6 +36,8 @@ Details on below events and additional events will be released in late Summer 20
 | 6 November 2026 | [Statistics Seminar](https://cr777-bath.github.io/my-website/seminar.html):<br> Franziska Glassmeier (TU Delft) | Christian Rohrbeck |
 | 10 November 2026 | Applied and Interdisciplinary Mathematics Seminar:<br> Simon Mathias (Durham University) | Phil Trinh |
 | 20 November 2026 | [Statistics Seminar](https://cr777-bath.github.io/my-website/seminar.html):<br> Roxana Ciurean (British Geological Survey) | Christian Rohrbeck |
+| 1 February 2027 | Distinguished seminar: <br>*Mathematics of tipping points* by <br> [Mary Lou Zeeman](https://www.bowdoin.edu/profiles/faculty/mlzeeman/)(Bowdain College) | IMI |
+
 
 <!-- Activities taking place as part of the Environmental and Climate Resilience themed semester.
 
