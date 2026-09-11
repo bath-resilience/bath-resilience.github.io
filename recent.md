@@ -24,7 +24,7 @@ Details on below events and additional events will be released in late Summer 20
 | Expected December 2026 | [Enhancing the Benefits of Mathematical Analysis in Flood Hydrology and Industry Modelling](/events/mathematical-hydrology.html) | Phil Trinh (Mathematical Sciences) and Rob Lamb (JBA Trust) |
 | 10 December 2026 | [Where's the Maths](/events/wheres-the-maths.html) | SAMBa |
 | Expected December 2026 | [Climate Change, Fungal Thermotolerance, and Emerging Infectious Disease: Where is the Maths?](/events/fungal-tolerance.html) | Ed Feil (Life Sciences) and Ruth Bowness (Mathematical Sciences) |
-| 1 February 2027 | Dstinguished seminar: *Mathematics of tipping points* by [Mary Lou Zeeman](https://www.bowdoin.edu/profiles/faculty/mlzeeman/) | IMI |
+| 1 February 2027 | Distinguished seminar: <br>*Mathematics of tipping points* by [Mary Lou Zeeman](https://www.bowdoin.edu/profiles/faculty/mlzeeman/) | IMI |
 
 ## Schedule of seminars and ongoing events
 
