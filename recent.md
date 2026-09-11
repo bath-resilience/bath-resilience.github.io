@@ -36,7 +36,7 @@ Details on below events and additional events will be released in late Summer 20
 | 6 November 2026 | [Statistics Seminar](https://cr777-bath.github.io/my-website/seminar.html):<br> Franziska Glassmeier (TU Delft) | Christian Rohrbeck |
 | 10 November 2026 | Applied and Interdisciplinary Mathematics Seminar:<br> Simon Mathias (Durham University) | Phil Trinh |
 | 20 November 2026 | [Statistics Seminar](https://cr777-bath.github.io/my-website/seminar.html):<br> Roxana Ciurean (British Geological Survey) | Christian Rohrbeck |
-| 1 February 2027 | Distinguished seminar: <br>*Mathematics of tipping points* <br> [Mary Lou Zeeman](https://www.bowdoin.edu/profiles/faculty/mlzeeman/)(Bowdain College) | IMI |
+| 1 February 2027 | Distinguished seminar: <br>*Mathematics of tipping points* <br> [Mary Lou Zeeman](https://www.bowdoin.edu/profiles/faculty/mlzeeman/) (Bowdain College) | IMI |
 
 
 <!-- Activities taking place as part of the Environmental and Climate Resilience themed semester.
