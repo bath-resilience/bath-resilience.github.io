@@ -4,7 +4,7 @@ title: "Quantitative Methods for Infrastructure Resilience: Bridging Mathematics
 permalink: /events/extreme-rainfall-flooding.html
 ---
 
-- **Date:** Expected early December 2026
+- **Date:** 14 December 2026
 - **Location:** TBD
 
 ## Summary
@@ -13,10 +13,7 @@ This workshop aims to link research communities from across the university of Ba
 
 ## Organisers and contact
 
-Thomas Kjeldsen (Civil Engineering) and Phil Trinh / Christian Rohrbeck (Mathematical Sciences)
+Thomas Kjeldsen (Civil Engineering), Gerritt Meijer (Civil Engineering), Phil Trinh and Christian Rohrbeck (Mathematical Sciences)
 
-Contact: TBD
+Contact: if interested in participating, please get in touch with <a href="mailto:trk23@bath.ac.uk">Thomas Kjeldsen</a>.
 
-## External event page
-
-TBD

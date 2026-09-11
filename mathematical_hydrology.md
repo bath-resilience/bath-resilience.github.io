@@ -4,8 +4,8 @@ title: "Enhancing the Benefits of Mathematical Analysis in Flood Hydrology and I
 permalink: /events/mathematical-hydrology.html
 ---
 
-- **Date:** Expected December 2026
-- **Location:** TBD
+- **Date:** Anticipated workshop date is week commencing 30 November 2026
+- **Location:** University of Bath
 
 ## Summary
 
@@ -15,7 +15,7 @@ A workshop uniting mathematicians and hydrological modellers to explore how theo
 
 Phil Trinh (Mathematical Sciences) and Rob Lamb (JBA Trust)
 
-Contact: TBD
+Contact: <a href="mailto:p.trinh@bath.ac.uk">Phil Trinh</a>
 
 ## External event page
 
