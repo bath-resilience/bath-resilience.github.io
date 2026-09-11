@@ -1,6 +1,6 @@
 ---
 layout: splash
-excerpt: "A themed semester delivered in collaboration by the Centre for Doctoral Training in Statistical Applied Mathematics (SAMBa) and the Institute for Mathematical Innovation (IMI)<br><br>University of Bath<br>October 2026 &ndash; January 2027<br><br><br>"
+excerpt: "A themed semester delivered in collaboration by the Centre for Doctoral Training in Statistical Applied Mathematics (SAMBa) and the Institute for Mathematical Innovation (IMI)<br><br>University of Bath<br>September 2026 &ndash; January 2027<br><br><br>"
 header:
   overlay_image: "/assets/pics/resilience-pht.svg"
   overlay_filter: 0.1
