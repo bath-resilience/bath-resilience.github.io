@@ -31,10 +31,10 @@ Details on below events and additional events will be released in late Summer 20
 |---|---|---|
 | Sept to Dec 2026 | [Mathematics for Environmental Research: Seminar and Reading Group](/events/samba-reading-group.html) | Phil Trinh and Fiona Davies (Mathematical Sciences) |
 | 23 October 2026 | [Statistics and Numerical Analysis Seminar](https://cr777-bath.github.io/my-website/seminar.html): <br> Eviatar Bach (University of Reading) | Christian Rohrbeck
-| 27 October 2026 | Applied and Interdisciplinary Mathematics Seminar:<br> Ross Wood (University of Bristol) | Phil Trinh |
-| 3 November 2026 | Applied and Interdisciplinary Mathematics Seminar:<br> Elizabeth Lewis (University of Manchester) | Phil Trinh
+| 27 October 2026 | [Applied and Interdisciplinary Mathematics Seminar](https://bath-aims.github.io/events/current_seminars.html):<br> Ross Wood (University of Bristol) | Phil Trinh |
+| 3 November 2026 | [Applied and Interdisciplinary Mathematics Seminar](https://bath-aims.github.io/events/current_seminars.html):<br> Elizabeth Lewis (University of Manchester) | Phil Trinh
 | 6 November 2026 | [Statistics Seminar](https://cr777-bath.github.io/my-website/seminar.html):<br> Franziska Glassmeier (TU Delft) | Christian Rohrbeck |
-| 10 November 2026 | Applied and Interdisciplinary Mathematics Seminar:<br> Simon Mathias (Durham University) | Phil Trinh |
+| 10 November 2026 | [Applied and Interdisciplinary Mathematics Seminar](https://bath-aims.github.io/events/current_seminars.html):<br> Simon Mathias (Durham University) | Phil Trinh |
 | 20 November 2026 | [Statistics Seminar](https://cr777-bath.github.io/my-website/seminar.html):<br> Roxana Ciurean (British Geological Survey) | Christian Rohrbeck |
 | 1 February 2027 | Distinguished seminar: <br>*Mathematics of tipping points* <br> [Mary Lou Zeeman](https://www.bowdoin.edu/profiles/faculty/mlzeeman/) (Bowdoin College) | IMI |
 
