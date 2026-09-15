@@ -7,7 +7,7 @@ permalink: /events/index.html
 classes: wide
 ---
 
-Details on below events and additional events will be released in late Summer 2026.
+<a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=Ij1-N6FOLUKwrY_MiUBrnjjV-83452BMqTrUl0Ylo5FUQlU0VDZONEVRRzdXTUxVVE9UNlA0OVZOMS4u&route=shorturl"> Please click here to register your interest to participate for any of the events below.</a>
 
 ## Schedule of workshops
 
@@ -20,9 +20,9 @@ Details on below events and additional events will be released in late Summer 20
 | 22 October 2026 | [Film screening: *People's Emergency Briefing*](/events/film-screening-emergency-briefing.html) | National Emergency Briefing |
 | 28 October 2026 | Climate Fresk for Maths PhDs | Christian Rohrbeck (Mathematical Sciences), [Climate Fresk](https://climatefresk.org/) |
 | Expected early November 2026 | [Mapping Heatwaves: Community Knowledge, Inequality and Mathematical Models](/events/mapping-heatwaves.html) | Leda Blackwood (Psychology), Julie Barnett (Psychology) and Theresa Smith (Mathematical Sciences) |
-| Expected early December 2026 | [Quantitative Methods for Infrastructure Resilience: Bridging Mathematics and Civil Engineering](/events/extreme-rainfall-flooding.html) | Thomas Kjeldsen / Gerrit Meijer (Civil Engineering) and Phil Trinh / Christian Rohrbeck (Mathematical Sciences) |
-| Expected December 2026 | [Enhancing the Benefits of Mathematical Analysis in Flood Hydrology and Industry Modelling](/events/mathematical-hydrology.html) | Phil Trinh (Mathematical Sciences) and Rob Lamb (JBA Trust) |
+| W/c November 2026 | [Enhancing the Benefits of Mathematical Analysis in Flood Hydrology and Industry Modelling](/events/mathematical-hydrology.html) | Phil Trinh (Mathematical Sciences) and Rob Lamb (JBA Trust) |
 | 10 December 2026 | [Where's the Maths](/events/wheres-the-maths.html) | SAMBa |
+| 14 December 2026 | [Quantitative Methods for Infrastructure Resilience: Bridging Mathematics and Civil Engineering](/events/extreme-rainfall-flooding.html) | Thomas Kjeldsen / Gerrit Meijer (Civil Engineering) and Phil Trinh / Christian Rohrbeck (Mathematical Sciences) |
 | Expected December 2026 | [Climate Change, Fungal Thermotolerance, and Emerging Infectious Disease: Where is the Maths?](/events/fungal-tolerance.html) | Ed Feil (Life Sciences) and Ruth Bowness (Mathematical Sciences) |
 
 ## Schedule of seminars and ongoing events
