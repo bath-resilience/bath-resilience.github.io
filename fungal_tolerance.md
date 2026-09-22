@@ -4,8 +4,8 @@ title: "Climate Change, Fungal Thermotolerance, and Emerging Infectious Disease:
 permalink: /events/fungal-tolerance.html
 ---
 
-- **Date:** Expected December 2026
-- **Location:** TBD
+- **Date:** 7 January 2027
+- **Location:** Centre for Evolution, University of Bath
 
 ## Summary
 
