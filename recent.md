@@ -19,7 +19,7 @@ classes: wide
 | 21 October 2026 | <a href="https://cdt-art-ai.ac.uk/news/events/ai-sustainability-workshop"> AI Sustainability Workshop </a> | Marina de Vos and Julian Padget (Computer Science) |
 | 22 October 2026 | [Film screening: *People's Emergency Briefing*](/events/film-screening-emergency-briefing.html) | National Emergency Briefing |
 | 28 October 2026 | Climate Fresk for Maths PhDs | Christian Rohrbeck (Mathematical Sciences), [Climate Fresk](https://climatefresk.org/) |
-| Expected early November 2026 | [Mapping Heatwaves: Community Knowledge, Inequality and Mathematical Models](/events/mapping-heatwaves.html) | Leda Blackwood (Psychology), Julie Barnett (Psychology) and Theresa Smith (Mathematical Sciences) |
+| 20 November 2026 | [Mapping Heatwaves: Community Knowledge, Inequality and Mathematical Models](/events/mapping-heatwaves.html) | Leda Blackwood (Psychology), Julie Barnett (Psychology) and Theresa Smith (Mathematical Sciences) |
 | W/c November 2026 | [Enhancing the Benefits of Mathematical Analysis in Flood Hydrology and Industry Modelling](/events/mathematical-hydrology.html) | Phil Trinh (Mathematical Sciences) and Rob Lamb (JBA Trust) |
 | 10 December 2026 | [Where's the Maths](/events/wheres-the-maths.html) | SAMBa |
 | 14 December 2026 | [Quantitative Methods for Infrastructure Resilience: Bridging Mathematics and Civil Engineering](/events/extreme-rainfall-flooding.html) | Thomas Kjeldsen / Gerrit Meijer (Civil Engineering) and Phil Trinh / Christian Rohrbeck (Mathematical Sciences) |
