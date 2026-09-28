@@ -4,7 +4,7 @@ title: "Mapping Heatwaves: Community Knowledge, Inequality and Mathematical Mode
 permalink: /events/mapping-heatwaves.html
 ---
 
-- **Date:** Expected early November 2026
+- **Date:** 20 November 2026
 - **Location:** TBD
 
 ## Summary
