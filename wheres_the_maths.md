@@ -4,8 +4,8 @@ title: "Where's the Maths"
 permalink: /events/wheres-the-maths.html
 ---
 
-- **Date:** 14:00-17:00 on 10 December 2026
-- **Location:** TBC
+- **Date:** 15:15-17:00 on 10 December 2026
+- **Location:** <a href="https://www.bath.ac.uk/timetable/roominfo/4W1-7.htm">4 West 1.7 Wolfson</a>
 
 ## Summary
 

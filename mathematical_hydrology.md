@@ -4,8 +4,8 @@ title: "Enhancing the Benefits of Mathematical Analysis in Flood Hydrology and I
 permalink: /events/mathematical-hydrology.html
 ---
 
-- **Date:** Anticipated workshop date is week commencing 30 November 2026
-- **Location:** University of Bath
+- **Date:** 2-3 December 2026
+- **Location:** Claverton Down Rooms, University of Bath
 
 ## Summary
 
