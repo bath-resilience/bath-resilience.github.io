@@ -5,7 +5,7 @@ permalink: /events/climate_fresk.html
 ---
 
 - **Date and Time:** 13:00-16:00 on 28 October 2026
-- **Location:** Wolfson Seminar Room, University of Bath
+- **Location:** Wolfson Lecture Theatre (4 West 1.7), University of Bath
 
 ## Summary
 
