@@ -4,12 +4,12 @@ title: "Climate Fresk"
 permalink: /events/climate_fresk.html
 ---
 
-- **Date:** 28 October 2026
+- **Date and Time:** 13:00-16:00 on 28 October 2026
 - **Location:** Wolfson Seminar Room, University of Bath
 
 ## Summary
 
-Insert details
+Climate Fresk is a collaborative workshop that explores the science of climate change through a systems-thinking exercise based on IPCC evidence. Working in small groups, you will reconstruct the links between human activities, greenhouse gas emissions, climate processes, and societal impacts, building a visual map of cause-and-effect relationships. You will further discuss how your own research may be used to model some of the dynamics and associations in this complex system and consider concrete actions you may take.  
 
 ## Organisers and contact
 
