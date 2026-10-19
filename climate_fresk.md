@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Climate Fresk"
+title: "Climate Fresk for Maths PhD students"
 permalink: /events/climate_fresk.html
 ---
 
