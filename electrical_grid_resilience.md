@@ -5,7 +5,7 @@ permalink: /events/electrical-grid-resilience.html
 ---
 
 - **Date:** 21 October 2026
-- **Location:** TBD
+- **Location:** Room 5.6, Chancellor's Building, University of Bath
 
 ## Summary
 
@@ -15,8 +15,5 @@ This will be a workshop with academics from maths and the Faculty of Engineering
 
 Anna Young (Mechanical Engineering) and Alex Cox (Mathematical Sciences)
 
-Contact: TBD
+Contact: Anna Young (amy32@bath.ac.uk) 
 
-## External event page
-
-TBD
