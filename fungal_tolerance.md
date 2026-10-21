@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Climate Change, Fungal Thermotolerance, and Emerging Infectious Disease: Where is the Maths?"
+title: "Climate Change, Fungal Thermotolerance, and Emerging Infectious Disease"
 permalink: /events/fungal-tolerance.html
 ---
 

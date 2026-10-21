@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Where's the Maths"
+title: "Where's the Maths?"
 permalink: /events/wheres-the-maths.html
 ---
 
@@ -17,7 +17,7 @@ Ideally the connections made at this meeting will lead to future collaborative r
 
 We have space for 20 presenters and a further 40 attendees. 
 
-<a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=Ij1-N6FOLUKwrY_MiUBrnjjV-83452BMqTrUl0Ylo5FUQlU0VDZONEVRRzdXTUxVVE9UNlA0OVZOMS4u&route=shorturl"> Please click here to register your interest to participate as a speaker or audience member. </a>
+<a href="https://forms.cloud.microsoft/e/91FC03m7Xi"> Please click here to register your interest to participate as a speaker or audience member. </a>
 
 ## Organisers and contact
 
