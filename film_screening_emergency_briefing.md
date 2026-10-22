@@ -5,7 +5,7 @@ permalink: /events/film-screening-emergency-briefing.html
 ---
 
 - **Date:** 16:30 on 22 October 2026
-- **Location:** TBD
+- **Location:** Room 1.12, Chancellor's Building, University of Bath
 
 ## Summary
 
