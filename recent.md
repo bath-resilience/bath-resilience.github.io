@@ -34,7 +34,7 @@ classes: wide
 | 27 October 2026, 13:15 | [Applied and Interdisciplinary Mathematics Seminar:<br> *A stochastic model for understanding how climate affects snowpacks* <br> Ross Woods (University of Bristol)](/events/seminar-woods.html) | Phil Trinh |
 | 3 November 2026, 13:15 | [Applied and Interdisciplinary Mathematics Seminar:<br> *Integrated water management: where can mathematics improve operational hydrology?* <br> Elizabeth Lewis (University of Manchester)](/events/seminar-lewis.html) | Phil Trinh |
 | 6 November 2026 | [Statistics Seminar](https://cr777-bath.github.io/my-website/seminar.html):<br> Franziska Glassmeier (TU Delft) | Christian Rohrbeck |
-| 10 November 2026, 13:15 | [Applied and Interdisciplinary Mathematics Seminar:<br> *Title TBD* <br> Simon Mathias (Durham University)](/events/seminar-mathias.html) | Phil Trinh |
+| 10 November 2026, 13:15 | [Applied and Interdisciplinary Mathematics Seminar:<br> *Mathematical aspects of the power-law discharge function used in rainfall-runoff modelling* <br> Simon Mathias (Durham University)](/events/seminar-mathias.html) | Phil Trinh |
 | 20 November 2026 | [Statistics Seminar](https://cr777-bath.github.io/my-website/seminar.html):<br> Roxana Ciurean (British Geological Survey) | Christian Rohrbeck |
 | 1 February 2027 | Distinguished seminar: <br>*Mathematics of tipping points* <br> [Mary Lou Zeeman](https://www.bowdoin.edu/profiles/faculty/mlzeeman/) (Bowdoin College) | IMI |
 

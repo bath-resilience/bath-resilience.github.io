@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Title TBD"
+title: "Mathematical aspects of the power-law discharge function used in rainfall-runoff modelling"
 permalink: /events/seminar-mathias.html
 ---
 
@@ -13,7 +13,7 @@ permalink: /events/seminar-mathias.html
 
 ## Abstract
 
-TBD
+Power-law relationships between catchment storage and discharge are widely used in conceptual rainfall-runoff models and provide a simple means of representing nonlinear catchment response. Despite their apparent simplicity, these relationships have a number of interesting mathematical properties and can be interpreted in terms of several familiar hydraulic systems. This seminar explores the mathematical basis and practical implications of the power-law discharge function. The relationship with the master recession curve is first considered, before examining how different power-law exponents can arise from physical arguments based on Poiseuille flow, Manning’s equation and groundwater drainage from an unconfined aquifer. The limiting behaviour of the power-law formulation as the power-law exponent tends to infinity is also explored through its relationship with the exponential storage model. Attention is then given to the solution of the resulting storage equations. Analytical solutions are presented for several special cases, alongside numerical solutions using explicit time-stepping, implicit time-stepping and MATLAB’s ode45. The stability constraints associated with explicit time-stepping are examined and used to motivate a maximum-discharge formulation that avoids numerical instability. Finally, it is shown how streamflow recessions can be isolated from observed river-flow data using a modified implementation of GR4J incorporating the PDM rainfall-runoff model. Linear regression of individual recession periods is then used to illustrate the range of power-law exponents inferred from catchment data and to consider what these values imply for the representation of nonlinear storage-discharge behaviour in rainfall-runoff models.
 
 ## Research visit
 
