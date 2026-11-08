@@ -4,8 +4,8 @@ title: "Quantitative Methods for Infrastructure Resilience: Bridging Mathematics
 permalink: /events/extreme-rainfall-flooding.html
 ---
 
-- **Date:** 14 December 2026
-- **Location:** TBD
+- **Date:** 10am - 3pm on 14 December 2026
+- **Location:** Room 2.10, 8 West, University of Bath
 
 ## Summary
 
