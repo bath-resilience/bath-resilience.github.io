@@ -32,10 +32,14 @@ The outcomes of the workshop will be:
 
 ## Key confirmed external participants
 
-- Simon Mathias (Durham University)
-- Elizabeth Lewis (University of Manchester)
-- Ross Woods (University of Bristol)
-- Sim Reaney (Durham University)
+| Name | Affiliation |
+|------|-------------|
+| Rob Lamb | JBA |
+| Elizabeth Lewis | University of Manchester |
+| Simon Mathias | Durham University |
+| Sim Reaney | Durham University |
+| Paul Smith | JBA |
+| Ross Woods | University of Bristol |
 
 The workshop will also include many additional participants from across departments at the University of Bath.
 
