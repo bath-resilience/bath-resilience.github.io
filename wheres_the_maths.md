@@ -9,7 +9,7 @@ permalink: /events/wheres-the-maths.html
 
 ## Agenda
 
-All speaker slots have now been filled. <a href="collections/WTM Agenda.pdf"> Click here to see the agenda for the event.</p>
+All speaker slots have now been filled. <a href="collections/WTM agenda.pdf"> Click here to see the agenda for the event.</p>
 
 We still have space for further attendees. 
 
