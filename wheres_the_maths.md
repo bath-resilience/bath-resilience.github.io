@@ -7,6 +7,15 @@ permalink: /events/wheres-the-maths.html
 - **Date:** 15:15-17:00 on 10 December 2026
 - **Location:** <a href="https://www.bath.ac.uk/timetable/roominfo/4W1-7.htm">4 West 1.7 Wolfson</a>
 
+## Agenda
+
+All speaker slots have now been filled. <a href="collections/WTM Agenda.pdf"> Click here to see the agenda for the event.</p>
+
+We still have space for further attendees. 
+
+<a href="https://forms.cloud.microsoft/e/91FC03m7Xi"> Please click here to register your interest to participate as an audience member. </a>
+
+
 ## Summary
 
 SAMBa’s ‘Where’s the Maths?’ invites researchers to describe challenges where they believe collaboration with SAMBa and/or the Department would be valuable to making progress. For this edition of the event, the focus will be on challenges related to climate and environmental resilience. It would be a bonus if these challenges were related in some way to our local area (e.g., South West England, the city of Bath, the University campus). We hope to include speakers from academic departments across campus, and external organisations. 
@@ -14,10 +23,6 @@ SAMBa’s ‘Where’s the Maths?’ invites researchers to describe challenges 
 Each presenter has 1 slide and 3 minutes to describe to an audience of mathematical researchers and other interested parties a challenge that they believe mathematical sciences research can help address. Presentations are delivered in quick succession, strictly timed with no questions! But this is just the start and a way to introduce the challenges you have. After the presentations, we will provide refreshments and there will be a chance to chat to each other and explore ideas amongst yourselves.
 
 Ideally the connections made at this meeting will lead to future collaborative research projects or a project with one of our SAMBa PhD students. At the very least, it is a chance to meet some new people, find out some more about SAMBa, and seek out new opportunities!
-
-We have space for 20 presenters and a further 40 attendees. 
-
-<a href="https://forms.cloud.microsoft/e/91FC03m7Xi"> Please click here to register your interest to participate as a speaker or audience member. </a>
 
 ## Organisers and contact
 
